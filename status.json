@@ -1,0 +1,7 @@
+{
+  "status_server": "active/paused/down/error/underatack",
+"status_webeite": "active/paused/down/error/underatack"
+"status_backend": "active/paused/down/error/underatack"
+
+  "reason": "test reason"
+}
